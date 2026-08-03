@@ -1,0 +1,112 @@
+
+
+{
+  "title": "Q3eSE_LS0_U02_03_ListeningSkill_Examples",
+  "sentences": [
+    {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Q3eSE_LS0_U02_03_ListeningSkill_Examples",
+      "arabic": "Q3eSE_LS0_U02_03_ListeningSkill_Examples",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Q3eSE_LS0_U02_03_ListeningSkill_Examples.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I study in different places, like the library or my dormitory",
+      "arabic": "أدرس في أماكن مختلفة، مثل المكتبة أو السكن الجامعي.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I study in different places, like the library or my dormitory.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I study in different places",
+      "arabic": "أدرس في أماكن مختلفة",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I study in different places.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "like the library or my dormitory",
+      "arabic": "مثل المكتبة أو مهجعي",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/like the library or my dormitory.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Watson University has many interesting classes.",
+      "arabic": " جامعة واتسون لديها العديد من المقررات الدراسية الشيقة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Watson University has many interesting classes.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "For example, I have classes in French and history.",
+      "arabic": "على سبيل المثال، لدي دروس في اللغة الفرنسية والتاريخ.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/For example, I have classes in French and history.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "For example",
+      "arabic": "على سبيل المثال",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/For example.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I have classes in French and history.",
+      "arabic": "لدي دروس في اللغة الفرنسية والتاريخ.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I have classes in French and history.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+    
+  ]
+}
